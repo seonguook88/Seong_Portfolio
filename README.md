@@ -12,3 +12,15 @@ This project lead me how to perform Data Analysis or is called Exploratory Data 
 ### Objective to be obtain while doing this project:
 - What is my youtube videos watch pattern? (Based on hour, day or week pattern)
 - Top Youtube channel or videos or title of my Youtube Watch history
+
+## [PROJECT 2: Visualizing Singapore Airbnb for Host](https://public.tableau.com/app/profile/seong.uook/viz/SingaporeAirBnbforHost/Dashboard1)
+In this project, I'm using Tableau as my main Data Visualization to visualize on everything to be consider about being Airbnb Host in Singapore. I got this data from insideairbnb.com and take Singapore as my main project. I discovered many things such as what type of property were listed based on price, review and location. 
+
+### Reason of the doing this project:
+1. Try to visualize and get to know more about Tableau
+2. Perform better data visualization (not only make dashboard look easy and understand at first glance but also informative)
+
+### Objective to be obtain while doing this project:
+- For new user or host to join in these Airbnb business especially in Singapore
+- Find hot location to list a property with a certain type and competitive price
+- Find certain competitor in certain area whether their price is underprice or overprice
