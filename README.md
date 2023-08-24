@@ -1,5 +1,5 @@
 # Seong Uook Park's Portfolio
-## Hi, welcome to my portfolio! It's really nice to see you come here. Hope you can see and get knowledge about my project that i had worked to. Hope we can connect and give feedback together! Thankyou!
+## Hi, welcome to my portfolio! It's really nice to see you come here. Hope you can see and get knowledge about my project that I had worked on to. Hope we can connect and give feedback together! Thankyou!
 
 ## [PROJECT 1: Youtube Watch History Exploratory Data Analysis (EDA)](https://github.com/seonguook88/youtube_history.git)
 This project lead me how to perform Data Analysis or is called Exploratory Data Analysis (EDA) on my own personal youtube watch history. I'm using Google Takeout to obtain Youtube watch history data. This project took me about approximately 10 days to getting the final result. It's my first time to post a repository and hope you we can connect and discuss more about it. 
